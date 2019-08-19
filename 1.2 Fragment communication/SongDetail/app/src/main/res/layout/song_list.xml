@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/album_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_regular"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        app:srcCompat="@drawable/beatles_anthology_box" />
+
+    <TextView
+        android:id="@+id/article_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_regular"
+        android:layout_toEndOf="@id/album_image"
+        android:text="@string/article_title"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/article_subheading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/album_image"
+        android:layout_below="@id/article_heading"
+        android:padding="@dimen/padding_regular"
+        android:text="@string/article_subtitle"
+        android:textAppearance="@android:style/TextAppearance.Medium" />
+    
+    <androidx.recyclerview.widget.RecyclerView
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/song_list"
+        android:name="com.example.android.songs.SongListFragment"
+        android:layout_below="@id/article_subheading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/standard_margin"
+        android:layout_marginStart="@dimen/standard_margin"
+        android:layout_marginRight="@dimen/standard_margin"
+        android:layout_marginEnd="@dimen/standard_margin"
+        app:layoutManager="LinearLayoutManager"
+        tools:context="com.example.android.songdetailstart.MainActivity"
+        tools:listitem="@layout/song_list_content" />
+    
+</RelativeLayout>
