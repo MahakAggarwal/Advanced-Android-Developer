@@ -1,0 +1,10 @@
+There are 2 images given - 
+
+1. ItemsForSaleV1_MemoryProfiler.PNG --> this image is screenshot of memory profiler of the ItemsForSale project. Here, the thumbnail images are small sized.
+
+2. ItemsForSaleV3_MemoryProfiler.PNG --> this image is screenshot of memory profiler of the ItemsForSaleV3 project. Here, the thumbnail images are large sized.
+
+Notes
+When comparing the two screenshots, the following notes come to mind - 
+1. When small images are used as thumbnails, less amount of memory is used by the app when compared to large images. There is not much of a visible difference.
+2. The initial numbers from the graph suggest that there are no visible memory leaks in each of the apps.
