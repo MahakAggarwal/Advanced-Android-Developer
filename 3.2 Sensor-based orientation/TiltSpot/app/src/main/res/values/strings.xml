@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tilt Spot</string>
+
+    <!-- Text view labels for orientation data -->
+    <string name="label_azimuth_string">Azmiuth:</string>
+    <string name="label_pitch_string">Pitch:</string>
+    <string name="label_roll_string">Roll:</string>
+
+    <!-- String for the orientation values. The %1$.2f part is a placeholder
+     that will be filled in at runtime:
+     %1 is the value to replace
+     $.2f says the value is a float, with two decimal places.  -->
+    <string name="value_format">%1$.2f</string>
+</resources>
