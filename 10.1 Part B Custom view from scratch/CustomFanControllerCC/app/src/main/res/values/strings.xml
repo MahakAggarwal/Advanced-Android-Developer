@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom Fan Controller</string>
+    <string name="fan_control">Fan Control</string>
+</resources>

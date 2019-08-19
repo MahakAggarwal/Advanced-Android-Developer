@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Custom Fan Controller CC2</string>
+    <string name="action_settings">Settings</string>
+    <string name="fan_control">Fan Control</string>
+    <string name="selections_3">Selections: 3</string>
+    <string name="selections_4">Selections: 4</string>
+    <string name="selections_5">Selections: 5</string>
+    <string name="selections_6">Selections: 6</string>
+    <string name="selections_7">Selections: 7</string>
+    <string name="selections_8">Selections: 8</string>
+    <string name="selections_9">Selections: 9</string>
+</resources>

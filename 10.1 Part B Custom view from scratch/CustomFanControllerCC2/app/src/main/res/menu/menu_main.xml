@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="me.mahakagg.customfancontrollercc2.MainActivity">
+    <item
+        android:id="@+id/action_selection_3"
+        android:orderInCategory="100"
+        android:title="@string/selections_3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_selection_4"
+        android:orderInCategory="110"
+        android:title="@string/selections_4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_selection_5"
+        android:orderInCategory="120"
+        android:title="@string/selections_5"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_selection_6"
+        android:orderInCategory="130"
+        android:title="@string/selections_6"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_selection_7"
+        android:orderInCategory="140"
+        android:title="@string/selections_7"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_selection_8"
+        android:orderInCategory="150"
+        android:title="@string/selections_8"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_selection_9"
+        android:orderInCategory="160"
+        android:title="@string/selections_9"
+        app:showAsAction="never" />
+</menu>
