@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recyclage</string>
+    <string name="action_settings">Réglage</string>
+    <string name="word">Mot %1$d</string>
+    <string name="clicked">Cliquée</string>
+</resources>
