@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Widget HW</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="enter_some_text">Enter some text</string>
+    <string name="save">Save</string>
+    <string name="no_text">No text</string>
+</resources>
