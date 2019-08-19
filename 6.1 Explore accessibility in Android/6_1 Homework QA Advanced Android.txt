@@ -1,0 +1,11 @@
+Q1 - Why should you consider making your app accessible?
+A1 - Accessibility enables your app to be used by people with disabilities. Accessibility allows your users—those users with disabilities and those users without—to customize their experiences of your app. Testing your app with accessibility in mind can reveal user-experience issues or limitations you might not have recognized.
+
+Q2 - Which of the following are accessibility features available in Android?
+A2 - TalkBack; Text-to-speech; Closed captions; Magnification; Ability to change display or font size
+
+Q3 - What is TalkBack?
+A3 - An app that reads screen content aloud.
+
+Q4 - How should you test your app for accessibility?
+A4 - Turn on TalkBack and manually try to use your app. Add unit tests and Espresso tests. Use tools such as Accessibility Scanner and Android Studio's lint tool to reveal potential accessibility problems. Use the Android Testing Support Library to enable automated accessibility testing.
