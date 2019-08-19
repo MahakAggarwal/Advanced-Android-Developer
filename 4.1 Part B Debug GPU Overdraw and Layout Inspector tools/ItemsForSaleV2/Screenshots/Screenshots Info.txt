@@ -1,0 +1,14 @@
+There are three screenshots provided - 
+1. Profile_GPU_thumbnails.png --> This is screenshot of app when profile GPU rendering is on and the recyclerview has small sized images as thumbails
+
+2. Profile_GPU_largeImages.png --> This is screenshot of app when profile GPU rendering is on and the recyclerview has large sized images as thumbails
+
+3. GPU_Overdraw_thumbnails --> This is screenshot of app when GPU Overdraw is on and the recyclerview has small sized images as thumbails
+
+
+NOTES
+
+1. The bars are higher when large images are used. This means that the system takes more time to load the large images into the recyclerView. There is not much of a visible difference when large images and small images are used in the recyclerView. 
+
+2. GPU overdraw shows that there are not many areas with red overdraw.
+
