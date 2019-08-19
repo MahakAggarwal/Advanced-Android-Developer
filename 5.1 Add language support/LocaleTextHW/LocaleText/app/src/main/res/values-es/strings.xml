@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Texto local</string>
+    <string name="action_help">Ayuda</string>
+    <string name="description">El turrón es una familia de dulces hechos con azúcar o miel, nueces tostadas (almendras, nueces, pistachos, avellanas y nueces de macadamia son comunes), claras de huevo batidas y, a veces, fruta confitada picada. Se utiliza en una variedad de chocolates y golosinas.</string>
+    <string name="help_text">Si necesita ayuda, contacte a nuestro Departamento de Soporte.</string>
+    <string name="language">Idioma</string>
+    <string name="nougat">Paquete De Turrones De Turrón</string>
+</resources>

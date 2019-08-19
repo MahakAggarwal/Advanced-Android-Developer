@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">लोकेल पाठ</string>
+    <string name="action_help">मदद</string>
+    <string name="description">नूगट चीनी या शहद, भुने हुए नट्स (बादाम, अखरोट, पिस्ता, हेज़लनट्स, और मैकाडामिया नट्स आम हैं), फेंटे हुए अंडे की सफेदी, और कभी-कभी कैंडिड फ्रूट से बने कन्फेशन का परिवार है। इसका उपयोग विभिन्न प्रकार के कैंडी बार और चॉकलेट में किया जाता है।</string>
+    <string name="help_text">यदि आपको सहायता की आवश्यकता है, तो हमारे सहायता विभाग से संपर्क करें।</string>
+    <string name="language">भाषा</string>
+</resources>

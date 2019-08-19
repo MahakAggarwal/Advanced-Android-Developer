@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نص الإعدادات المحلية</string>
+    <string name="action_help">مساعدة</string>
+    <string name="description">نوغة عبارة عن عائلة من الحلويات المصنوعة من السكر أو العسل والمكسرات المحمصة (اللوز والجوز والفستق والبندق والجوز المكاديميا شائعة) ، بياض البيض المخفوق ، وأحيانًا الفاكهة المهروسة. يتم استخدامه في مجموعة متنوعة من أشرطة الحلوى والشوكولاتة.</string>
+    <string name="help_text">إذا كنت بحاجة إلى مساعدة ، فاتصل بقسم الدعم.</string>
+    <string name="nougat">باقة حلوى نوغة</string>
+    <string name="language">لغة</string>
+</resources>

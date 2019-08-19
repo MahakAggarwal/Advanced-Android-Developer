@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.localetext.MainActivity">
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:title="@string/action_help"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_language"
+        android:orderInCategory="110"
+        android:title="@string/language"
+        app:showAsAction="never" >
+    </item>
+</menu>
