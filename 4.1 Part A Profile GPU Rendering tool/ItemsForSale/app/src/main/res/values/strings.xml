@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Items For Sale</string>
+    <string name="item_thumbnail">Item thumbnail</string>
+    <string name="price_format">Price: %1$d USD</string>
+    <string name="items">Items</string>
+    <string name="okay">Okay</string>
+
+    <string-array name="items_names">
+        <item>White Earphones</item>
+        <item>Gaming Headphones</item>
+        <item>Red Headphones</item>
+        <item>Black Headphones</item>
+        <item>Pink Headphones</item>
+        <item>Silver Laptop i3</item>
+        <item>Silver Laptop i7</item>
+        <item>White Smart Phone</item>
+        <item>White Android Smart Phone</item>
+        <item>Black Smart Phone</item>
+    </string-array>
+
+    <integer-array name="items_prices">
+        <item>50</item>
+        <item>100</item>
+        <item>60</item>
+        <item>200</item>
+        <item>80</item>
+        <item>350</item>
+        <item>1000</item>
+        <item>350</item>
+        <item>400</item>
+        <item>500</item>
+    </integer-array>
+
+    <array name="items_thumbnails">
+        <item>@drawable/earphone_1_thumbnail</item>
+        <item>@drawable/headphone_1_thumbnail</item>
+        <item>@drawable/headphone_2_thumbnail</item>
+        <item>@drawable/headphone_3_thumbnail</item>
+        <item>@drawable/headphone_4_thumbnail</item>
+        <item>@drawable/laptop_1_thumbnail</item>
+        <item>@drawable/laptop_2_thumbnail</item>
+        <item>@drawable/phone_1_thumbnail</item>
+        <item>@drawable/phone_2_thumbnail</item>
+        <item>@drawable/phone_3_thumbnail</item>
+    </array>
+
+    <array name="items_images">
+        <item>@drawable/earphone_1_large</item>
+        <item>@drawable/headphone_1_large</item>
+        <item>@drawable/headphone_2_large</item>
+        <item>@drawable/headphone_3_large</item>
+        <item>@drawable/headphone_4_large</item>
+        <item>@drawable/laptop_1_large</item>
+        <item>@drawable/laptop_2_large</item>
+        <item>@drawable/phone_1_large</item>
+        <item>@drawable/phone_2_large</item>
+        <item>@drawable/phone_3_large</item>
+    </array>
+
+</resources>
