@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Humidity Sensor</string>
+    <string name="humidity_sensor_text">Humidity Sensor: %1$.2f</string>
+    <string name="error_no_sensor">No Sensor</string>
+</resources>
