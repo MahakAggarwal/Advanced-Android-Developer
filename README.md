@@ -25,7 +25,7 @@ Please note that this is a work in progress and I will be uploading more project
 * 3.1: Getting sensor data
 * 3.2: Sensor-based orientation
 * 4.1 Part A: Profile GPU Rendering tool
-* 4.1 Part B: Debug GPU Overdraw and Layout Inspector tools
+* 4.1 Part B: Debug GPU Overdraw and Layout Inspector tools 
 * 4.2: Memory Profiler tool
 * 5.1: Add language support
 * 5.2: Use locale to format data
