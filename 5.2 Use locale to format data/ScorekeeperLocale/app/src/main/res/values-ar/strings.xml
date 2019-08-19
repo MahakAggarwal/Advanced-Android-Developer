@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سجل الأهداف</string>
+    <string name="day_mode">وضع اليوم</string>
+    <string name="night_mode">وضع الليل</string>
+    <string name="team_1">الفريق 1</string>
+    <string name="team_2">الفريق 2</string>
+</resources>

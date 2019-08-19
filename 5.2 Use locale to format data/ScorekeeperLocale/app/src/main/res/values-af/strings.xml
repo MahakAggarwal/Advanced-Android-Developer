@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scorekeeper Locale</string>
+    <string name="day_mode">Dag af</string>
+    <string name="night_mode">Nag af</string>
+    <string name="team_1">Span 1</string>
+    <string name="team_2">Span 2</string>
+</resources>
