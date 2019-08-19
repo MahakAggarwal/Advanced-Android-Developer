@@ -1,0 +1,16 @@
+<resources>
+    <!-- Name of the app -->
+    <string name="app_name">Simple Accessibility</string>
+
+    <!-- Label for the plain button -->
+    <string name="button_text">Compose</string>
+
+    <!-- Checkbox labels -->
+    <string name="checkbox_text_jetpack">Enable jetpack</string>
+    <string name="checkbox_text_hyperspace">Enable hyperspace</string>
+    <string name="discard">Discard</string>
+    <string name="partly_cloudy">Partly Cloudy</string>
+    <string name="message">Message</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="lock">Lock</string>
+</resources>
