@@ -32,7 +32,7 @@ Please note that this is a work in progress and I will be uploading more project
 * 6.1: Explore accessibility in Android
 * 6.2: Create accessible apps
 * 7.1: Device location
-* 8.1: Places API __(not complete yet)__
+* 8.1: Places API
 * 9.1: Google Maps __(not complete yet)__
 * 10.1 Part A: Customize View subclasses
 * 10.1 Part B: Custom view from scratch
