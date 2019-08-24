@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple VideoView CC</string>
+    <string name="play_pause">Play Pause</string>
+    <string name="fast_forward">Fast Forward</string>
+</resources>

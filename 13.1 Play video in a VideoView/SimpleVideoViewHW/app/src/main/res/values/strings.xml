@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple VideoView HW</string>
+    <string name="short_movies">Short Movies</string>
+    <string name="by_blender_foundation">By Blender Foundation</string>
+</resources>
