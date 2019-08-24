@@ -40,5 +40,5 @@ Please note that this is a work in progress and I will be uploading more project
 * 11.1 Part B: Draw on Canvas objects
 * 11.1 Part C: Apply clipping to Canvas objects __(not complete yet)__
 * 11.2: SurfaceView objects __(not complete yet)__
-* 12.1: Property animations __(not complete yet)__
-* 13.1: Play video in a VideoView __(not complete yet)__
+* 12.1: Property animations
+* 13.1: Play video in a VideoView
