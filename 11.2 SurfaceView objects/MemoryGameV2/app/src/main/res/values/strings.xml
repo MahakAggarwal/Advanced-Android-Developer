@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="memory_game">Memory Game</string>
+    <string name="restart">Restart</string>
+</resources>
