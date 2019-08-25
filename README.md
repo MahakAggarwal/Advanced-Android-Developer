@@ -16,7 +16,7 @@ Mahak Aggarwal
 All apps in this repository are made using java and AndroidX libraries.
 All homework question and answers are in the MainActivity.java file of the homework projects. Architecture components are covered in fundamentals.
 
-Please note that this is a work in progress and I will be uploading more projects as and when they are done.
+The repository is complete and all the projects work as intended.
 
 # Contents
 * 1.1: Fragments
@@ -39,6 +39,6 @@ Please note that this is a work in progress and I will be uploading more project
 * 11.1 Part A: Create Canvas objects
 * 11.1 Part B: Draw on Canvas objects
 * 11.1 Part C: Apply clipping to Canvas objects
-* 11.2: SurfaceView objects __(not complete yet)__
+* 11.2: SurfaceView objects
 * 12.1: Property animations
 * 13.1: Play video in a VideoView
